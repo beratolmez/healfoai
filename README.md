@@ -57,69 +57,38 @@ These are research baselines, not final production metrics. The rollout policy i
 
 ## Screenshots
 
-### Dashboard
+<table>
+  <tr>
+    <td align="center"><strong>Dashboard</strong><br><img src="assets/screenshots/01-dashboard.jpg" width="220" alt="Dashboard"></td>
+    <td align="center"><strong>Add Meal</strong><br><img src="assets/screenshots/02-add-food.jpg" width="220" alt="Add Meal"></td>
+    <td align="center"><strong>Process Flow</strong><br><img src="assets/screenshots/03-process-1.jpg" width="220" alt="Process Flow"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Analysis Result</strong><br><img src="assets/screenshots/04-after-process.jpg" width="220" alt="Analysis Result"></td>
+    <td align="center"><strong>History</strong><br><img src="assets/screenshots/05-history.jpg" width="220" alt="History"></td>
+    <td align="center"><strong>Profile</strong><br><img src="assets/screenshots/06-profile.jpg" width="220" alt="Profile"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Coach</strong><br><img src="assets/screenshots/07-coach.jpg" width="220" alt="Coach"></td>
+    <td align="center"><strong>Light Theme</strong><br><img src="assets/screenshots/08-light-theme.jpg" width="220" alt="Light Theme"></td>
+    <td align="center"><strong>Coach Detail</strong><br><img src="assets/screenshots/09-coach-detail.jpg" width="220" alt="Coach Detail"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Coach Loading</strong><br><img src="assets/screenshots/10-coach-loading.jpg" width="220" alt="Coach Loading"></td>
+    <td align="center"><strong>Sample Analysis</strong><br><img src="assets/screenshots/11-sample-infer.jpg" width="220" alt="Sample Analysis"></td>
+    <td align="center"><strong>Dashboard Detail</strong><br><img src="assets/screenshots/12-dashboard-detail.jpg" width="220" alt="Dashboard Detail"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>History Detail</strong><br><img src="assets/screenshots/13-history-detail.jpg" width="220" alt="History Detail"></td>
+    <td align="center"><strong>Process Step 2</strong><br><img src="assets/screenshots/14-process-2.jpg" width="220" alt="Process Step 2"></td>
+    <td align="center"><strong>Profile Form</strong><br><img src="assets/screenshots/15-profile-form.jpg" width="220" alt="Profile Form"></td>
+  </tr>
+</table>
 
-![Dashboard](assets/screenshots/01-dashboard.jpg)
-
-### Add Meal
-
-![Add Food](assets/screenshots/02-add-food.jpg)
-
-### Image Processing Flow
-
-![Process Step](assets/screenshots/03-process-1.jpg)
-
-### Analysis Result
-
-![After Process](assets/screenshots/04-after-process.jpg)
-
-### History
-
-![History](assets/screenshots/05-history.jpg)
-
-### Profile And Targets
-
-![Profile](assets/screenshots/06-profile.jpg)
-
-### AI Coach
-
-![Coach](assets/screenshots/07-coach.jpg)
-
-### Light Theme
-
-![Light Theme](assets/screenshots/08-light-theme.jpg)
-
-### Coach Detail
-
-![Coach Detail](assets/screenshots/09-coach-detail.jpg)
-
-### Coach Loading State
-
-![Coach Loading](assets/screenshots/10-coach-loading.jpg)
-
-### Sample Food Analysis
-
-![Sample Infer](assets/screenshots/11-sample-infer.jpg)
-
-### Dashboard Detail
-
-![Dashboard Detail](assets/screenshots/12-dashboard-detail.jpg)
-
-### History Detail
-
-![History Detail](assets/screenshots/13-history-detail.jpg)
-
-### Image Processing Flow Step 2
-
-![Process Step 2](assets/screenshots/14-process-2.jpg)
-
-### Profile Form
-
-![Profile Form](assets/screenshots/15-profile-form.jpg)
-
-### Profile Settings
-
-![Profile Settings](assets/screenshots/16-profile-settings.jpg)
+<p align="center">
+  <strong>Profile Settings</strong><br>
+  <img src="assets/screenshots/16-profile-settings.jpg" width="220" alt="Profile Settings">
+</p>
 
 ## Key Product Features
 
